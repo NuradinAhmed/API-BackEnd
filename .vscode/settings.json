@@ -1,0 +1,11 @@
+{
+    "editor.rulers": [80,100],
+    "python.pythonPath": "venv/bin/python",
+    "python.autoComplete.addBrackets": true,
+    // "python.autoComplete.extraPaths": [
+    //     "/Users/NuradinAhmed/Documents/Builds/fastAPI/venv/bin/python3.10"
+    // ]      
+    "python.autoComplete.extraPaths": ["/Users/NuradinAhmed/Documents/Builds/fastAPI/venv/bin/python"]
+
+    
+}
